@@ -144,7 +144,8 @@ The attacker’s intent is to steal SBI NetBanking credentials.
 
 **6.Screenshots**
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d1f99de3-3f3a-4f42-9d20-6a7f91fd0df1" />
+<img width="1899" height="786" alt="image" src="https://github.com/user-attachments/assets/afacc007-98f1-434f-ad8b-d9f92f79981e" />
+
 <img width="1844" height="771" alt="image" src="https://github.com/user-attachments/assets/b301d20e-04e0-4e23-9cd9-97a3f6b50c12" />
 
 
